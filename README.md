@@ -9,14 +9,14 @@
 
 **2. Training and Evaluation**
 
-    **a. To run the ML models**
+    a. To run the ML models -
         Run python ML_Models.py
         
-    **b. To run the NN models of Word2Vec NN models -**
-      Run python word2Vec/Model_name.py
-      Example to run LSTM model - run python Word2Vec/LSTM.py
+    b. To run the NN models of Word2Vec NN models -
+        Run python word2Vec/Model_name.py
+        Example to run LSTM model - run python Word2Vec/LSTM.py
       
-    **c. b. To run the NN models of GloVe NN models -**
-      Run python GloVe/Model_name.py
-      Example to run LSTM model - run python GloVe/LSTM.py
+    c. To run the NN models of GloVe NN models -
+        Run python GloVe/Model_name.py
+        Example to run LSTM model - run python GloVe/LSTM.py
 
