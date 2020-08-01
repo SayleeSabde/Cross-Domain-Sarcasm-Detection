@@ -4,9 +4,9 @@
      1. Python 2.7
      2. Python package Gensim, NLTK, Keras,Matplotlib, Numpy, SkLearn, Pandas, Re, Tensorflow 2.0
   -  Running the code
-     - Get the Pre-requisites
-     - Get the pre-trained GloVe file - [GLoVe.6d.100B.txt](https://nlp.stanford.edu/projects/glove/).
-### - Training and Evaluation
+###  - Get the Pre-requisites
+       - Get the pre-trained GloVe file - [GLoVe.6d.100B.txt](https://nlp.stanford.edu/projects/glove/).
+###  - Training and Evaluation
     **a. To run the ML models**
         Run python ML_Models.py
 
