@@ -6,13 +6,17 @@
 ## Running the code
 **1. Get the Pre-requisites**
   - Get the pre-trained GloVe file - [GLoVe.6d.100B.txt](https://nlp.stanford.edu/projects/glove/).
+
 **2. Training and Evaluation**
-  **a. To run the ML models**
+
+    **a. To run the ML models**
         Run python ML_Models.py
-  **b. To run the NN models of Word2Vec NN models -**
+        
+    **b. To run the NN models of Word2Vec NN models -**
       Run python word2Vec/Model_name.py
       Example to run LSTM model - run python Word2Vec/LSTM.py
-  **c. b. To run the NN models of GloVe NN models -**
+      
+    **c. b. To run the NN models of GloVe NN models -**
       Run python GloVe/Model_name.py
       Example to run LSTM model - run python GloVe/LSTM.py
 
